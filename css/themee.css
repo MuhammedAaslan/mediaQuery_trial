@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+
+
+:root{
+
+ /*? Font-families */
+--ff-roboto: 'Roboto Slab', serif;
+--ff-Kanit: 'Kanit', sans-serif;
+
+/*? colors */
+
+--color-1: linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%);
+--color-2: rgb(138, 138, 92);
+--color-3: rgb(151, 148, 148);
+
+}
